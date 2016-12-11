@@ -21,7 +21,7 @@ def getMem():
 	print 'ok'
 
 while True:
-	time.sleep(2)
+	time.sleep(3)
 	getMem()
 
 
